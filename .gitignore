@@ -1,6 +1,6 @@
 cred.txt
 notebooks/
-
+data/
 models/
 # Byte-compiled / optimized / DLL files
 __pycache__/
