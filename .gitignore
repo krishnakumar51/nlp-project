@@ -1,3 +1,5 @@
+cred.txt
+notebooks/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
